@@ -22,7 +22,7 @@ I strive to become a leading AI researcher representing Korea on the global stag
 
 ---
 
-## 📚 Research Experience
+## Research Experience
 
 ### Data Intelligence Lab, POSTECH (Aug 2024 – Present)
 - Explored compact LLM designs and transformer variants.
@@ -36,7 +36,7 @@ I strive to become a leading AI researcher representing Korea on the global stag
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 Feel free to reach out via email or connect to collaborate on AI research, exchange ideas, or just talk about reasoning models and AGI.
 
